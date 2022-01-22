@@ -1,0 +1,1 @@
+Hello bahiya this is Mudit Tripathi this side and i have done a slight change in the way for finding out the middle element in the binary search because when the integers were very high the " start+end / 2 " was showing error for overflowing of sum
